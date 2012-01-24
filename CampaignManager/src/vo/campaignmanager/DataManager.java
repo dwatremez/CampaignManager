@@ -156,10 +156,10 @@ public class DataManager implements Serializable{
 		}
 		
 		
-		for ( Object o : array){
+		//for ( Object o : array){
 			
 			
-		}
+		//}
 		return result;
 	}
 	
